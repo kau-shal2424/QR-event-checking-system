@@ -64,5 +64,4 @@ Open [http://localhost:5173](http://localhost:5173).
 ## 🛡️ Security Note
 This project uses **one-way hashing** for QR tokens. The server never stores the raw token, only its hash. This ensures that even if the database is compromised, invitations cannot be forged.
 
-## 📜 License
-MIT License - Feel free to use and modify for your own campus events!
+
